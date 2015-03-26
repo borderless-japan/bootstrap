@@ -55,7 +55,7 @@ mrt:moment@2.6.0
 npm-bcrypt@0.7.8_1
 observe-sequence@1.0.5
 ordered-dict@1.0.3
-orionjs:bootstrap@0.0.5
+orionjs:bootstrap@0.0.6
 orionjs:core@0.6.0
 random@1.0.3
 reactive-dict@1.1.0

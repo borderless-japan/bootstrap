@@ -3,6 +3,10 @@ Orion Core
 
 This is the changelog for ```orionjs:bootstrap```.
 
+### 0.0.5
+
+- Languages for dictionary.
+
 ### 0.0.4
 
 - Hides dictionary when there are no definitions.

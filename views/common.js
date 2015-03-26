@@ -46,6 +46,7 @@ Template.adminConfigPasswordInput.rendered = orion.admin.configPasswordInputRend
 /**
  * adminDictionaryUpdate
  */
+Template.adminDictionaryUpdate.events(orion.admin.languagesEvents);
 Template.adminDictionaryUpdate.helpers(orion.admin.dictionaryUpdateHelpers);
 
 /**

@@ -1,6 +1,6 @@
 accounts-base@1.2.0
 accounts-password@1.1.0
-aldeed:autoform@4.2.1
+aldeed:autoform@5.1.1
 aldeed:collection2@2.0.0
 aldeed:delete-button@1.0.0
 aldeed:simple-schema@1.1.0
@@ -49,14 +49,14 @@ meteorhacks:subs-manager@1.2.0
 minifiers@1.1.4
 minimongo@1.0.7
 mobile-status-bar@1.0.3
+momentjs:moment@2.8.4
 mongo@1.1.0
 mongo-livedata@1.0.8
-mrt:moment@2.6.0
 npm-bcrypt@0.7.8_1
 observe-sequence@1.0.5
 ordered-dict@1.0.3
-orionjs:bootstrap@0.0.6
-orionjs:core@0.6.0
+orionjs:bootstrap@0.0.7
+orionjs:core@0.6.1
 random@1.0.3
 reactive-dict@1.1.0
 reactive-var@1.0.5

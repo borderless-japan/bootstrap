@@ -1,7 +1,7 @@
 Package.describe({
 	name: 'orionjs:bootstrap',
 	summary: 'Orion CMS styled for bootstrap',
-	version: '0.0.7',
+	version: '0.0.8',
 	git: 'https://github.com/orionjs/bootstrap'
 });
 

@@ -3,6 +3,10 @@ Orion Core
 
 This is the changelog for ```orionjs:bootstrap```.
 
+### 0.0.8
+
+- Fixed top border radius.
+
 ### 0.0.6
 
 - Avoid bootstrap's default link color by @joadr.

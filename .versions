@@ -55,8 +55,8 @@ mongo-livedata@1.0.8
 npm-bcrypt@0.7.8_1
 observe-sequence@1.0.5
 ordered-dict@1.0.3
-orionjs:bootstrap@0.0.7
-orionjs:core@0.6.1
+orionjs:bootstrap@0.0.8
+orionjs:core@0.6.2
 random@1.0.3
 reactive-dict@1.1.0
 reactive-var@1.0.5
